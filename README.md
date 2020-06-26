@@ -1,2 +1,3 @@
 # This is my website
-samarasimhareddy369.github.io
+http://samarasimhareddy369.github.io
+
