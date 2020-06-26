@@ -1,3 +1,3 @@
 # This is my website
-Click here http:/samarasimhareddy369.github.io
+Click here https://samarasimhareddy369.github.io
 
