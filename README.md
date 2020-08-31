@@ -1,2 +1,2 @@
-# Here's my Portfolio website codes
-Click here https://samarasimhareddy369.github.io
+# Here's my Portfolio
+Click here https://samarsreddy.github.io
